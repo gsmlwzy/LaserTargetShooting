@@ -1,4 +1,5 @@
 # Prerequisites
+./.vscode/
 *.d
 *.code-workspace
 # Compiled Object files
