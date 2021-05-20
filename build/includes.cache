@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Programme\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Programme\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "g:\\Arduino\\LaserTargetShooting\\build\\sketch\\motor.ino.cpp",
+    "Include": "MsTimer2.h",
+    "Includepath": "G:\\Arduino\\libraries\\MsTimer2"
+  },
+  {
+    "Sourcefile": "g:\\Arduino\\LaserTargetShooting\\build\\sketch\\motor.ino.cpp",
+    "Include": "sys.h",
+    "Includepath": "G:\\Arduino\\libraries\\system"
+  },
+  {
+    "Sourcefile": "g:\\Arduino\\LaserTargetShooting\\build\\sketch\\motor.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Arduino\\libraries\\MsTimer2\\MsTimer2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Arduino\\libraries\\system\\pid.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Arduino\\libraries\\system\\sys.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
